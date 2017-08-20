@@ -85,7 +85,7 @@
         "loading_preview": "載入緊預覽",
         "submitting_edit": "送出緊編輯",
         "edit_success": "成功改版，用咗 $1 毫秒",
-        "empty_page_confirm": "您編輯嘅維基文字是空白嘅，這會使此頁面清空。\r\n 請設定 \"empty\" 嘅值為 true 以允許這樣的編輯",
+        "empty_page_confirm": "您編輯嘅維基文字是空白嘅，這會使此頁面清空。\r\n 請設定 \"empty\" 嘅值為 true 以允許這樣嘅編輯",
         "cross_page_edit": "您改緊嘅嘢屬於另一版嘅內容， WikPlus 載入緊...",
         "cross_page_edit_submit": "成功載入資訊並送出編輯",
         "cross_page_edit_error": "載入唔到資訊",
